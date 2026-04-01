@@ -1,0 +1,15 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos locales (no se suben, cada usuario tiene los suyos)
+tareas.json
+
+# Ícono generado
+icon.png
