@@ -1,0 +1,32 @@
+[
+  {
+    "texto": "Tarea1",
+    "hecha": false,
+    "fecha": "2026-04-01T10:47:00",
+    "etiqueta": "Urgente"
+  },
+  {
+    "texto": "Tarea2",
+    "hecha": false,
+    "fecha": "2026-04-02T10:48:00",
+    "etiqueta": "Importante"
+  },
+  {
+    "texto": "Tarea3",
+    "hecha": false,
+    "fecha": "2026-04-03T10:46:00",
+    "etiqueta": "No urgente"
+  },
+  {
+    "texto": "Tarea4",
+    "hecha": false,
+    "fecha": "2026-04-03T10:46:00",
+    "etiqueta": "No importante"
+  },
+  {
+    "texto": "Tarea0",
+    "hecha": true,
+    "fecha": "2026-04-01T10:47:00",
+    "etiqueta": "Urgente"
+  }
+]
