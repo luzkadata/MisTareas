@@ -30,6 +30,7 @@ RED     = "#d13438"
 GREEN   = "#107c10"
 ORANGE  = "#ca5010"
 
+
 ETIQUETAS = {
     "Urgente":       {"bg": "#fde7e9", "fg": "#d13438"},
     "Importante":    {"bg": "#fff4ce", "fg": "#ca5010"},
